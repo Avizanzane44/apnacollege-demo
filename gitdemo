@@ -1,1 +1,6 @@
 print("hello")
+
+a=input("Enter first Numers")
+b=input("Enter Second Number")
+c=int(a)+int(b)
+print(c)
