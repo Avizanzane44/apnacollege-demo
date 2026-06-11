@@ -1,4 +1,4 @@
-print("hello")
+
 
 a=input("Enter first Numers")
 b=input("Enter Second Number")
